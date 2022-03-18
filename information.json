@@ -1,0 +1,17 @@
+[
+    {
+        "firstName" : "Gamze",
+        "lastName" : "Kural",
+        "age" : 24
+    },
+    {
+        "firstName" : "Elif",
+        "lastName" : "Kural",
+        "age" : 20
+    },
+    {
+        "firstName" : "Mutlu",
+        "lastName" : "Ekinci",
+        "age" : 24
+    }
+]
